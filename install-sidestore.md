@@ -1,3 +1,6 @@
+# NOTE
+this guide is over a year old and is outdated. please refer to the official sidestore installation guide: https://docs.sidestore.io/docs/getting-started/prerequisites
+
 # Installing SideStore
 
 ### Requirements:
